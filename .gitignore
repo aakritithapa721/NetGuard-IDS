@@ -20,7 +20,6 @@ Thumbs.db
 .vscode/
 
 # Ignore Nmap binaries and folders
-nmap/
 tools/nmap/
 *.exe
 *.dll
