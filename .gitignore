@@ -18,3 +18,9 @@ Thumbs.db
 
 # VS Code settings
 .vscode/
+
+# Ignore Nmap binaries and folders
+nmap/
+tools/nmap/
+*.exe
+*.dll
